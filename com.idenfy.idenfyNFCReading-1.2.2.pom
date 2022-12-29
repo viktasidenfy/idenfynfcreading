@@ -24,7 +24,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>idenfyNFCReading</groupId>
   <artifactId>com.idenfy.idenfyNFCReading</artifactId>
-  <version>1.2.0</version>
+  <version>1.2.2</version>
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
@@ -32,6 +32,12 @@
       <artifactId>kotlin-stdlib-jdk8</artifactId>
       <version>1.6.21</version>
       <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>idenfySdk</groupId>
+      <artifactId>com.idenfy.idenfySdk</artifactId>
+      <version>1.2.2</version>
+      <scope>runtime</scope>
     </dependency>
     <dependency>
       <groupId>net.sf.scuba</groupId>
