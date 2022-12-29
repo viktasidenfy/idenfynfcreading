@@ -34,8 +34,8 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>idenfySdk</groupId>
-      <artifactId>com.idenfy.idenfySdk</artifactId>
+      <groupId>com.github.viktasidenfy</groupId>
+      <artifactId>idenfysdk</artifactId>
       <version>1.2.8</version>
       <scope>runtime</scope>
     </dependency>
